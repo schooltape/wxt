@@ -1,5 +1,25 @@
 # Changelog
 
+## v1.2.8
+
+[compare changes](https://github.com/schooltape/wxt/compare/storage-v1.2.7...storage-v1.2.8)
+
+### 🩹 Fixes
+
+- **storage:** Migrations incorrectly running ([0bf5cccc](https://github.com/schooltape/wxt/commit/0bf5cccc))
+- **storage:** Move fix to migration fn ([b100c943](https://github.com/schooltape/wxt/commit/b100c943))
+
+### 🏡 Chore
+
+- **storage:** @schooltape/wxt-storage ([d15c39c9](https://github.com/schooltape/wxt/commit/d15c39c9))
+- **release:** @schooltape/wxt-storage v1.2.8 ([fd5de43f](https://github.com/schooltape/wxt/commit/fd5de43f))
+- **storage:** Fix package url ([dd414476](https://github.com/schooltape/wxt/commit/dd414476))
+- **release:** @schooltape/wxt-storage v1.2.8" ([2279e8e5](https://github.com/schooltape/wxt/commit/2279e8e5))
+
+### ❤️ Contributors
+
+- Willow ([@42willow](https://github.com/42willow))
+
 ## v1.2.7
 
 [compare changes](https://github.com/wxt-dev/wxt/compare/storage-v1.2.6...storage-v1.2.7)
