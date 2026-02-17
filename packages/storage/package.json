@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wxt-dev/wxt.git",
+    "url": "git+https://github.com/schooltape/wxt.git",
     "directory": "packages/storage"
   },
   "homepage": "https://wxt.dev/storage.html",
