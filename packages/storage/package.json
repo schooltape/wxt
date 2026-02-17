@@ -1,7 +1,7 @@
 {
   "name": "@schooltape/wxt-storage",
   "description": "Web extension storage API provided by WXT, supports all browsers.",
-  "version": "1.2.8",
+  "version": "1.2.7",
   "type": "module",
   "repository": {
     "type": "git",
